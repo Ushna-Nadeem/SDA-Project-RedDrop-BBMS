@@ -1,0 +1,3 @@
+Rawalpindi,Meezan Hospital Street 3 Mudassir Avenue,0+,true
+Rawalpindi,Pepsi Hospital Street 6 Coca Avenue,B-,true
+Rawalpindi,Coca Cola Hospital Street 9 Pepsi Avenue,O+,false
