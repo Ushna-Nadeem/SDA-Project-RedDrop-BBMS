@@ -1,25 +1,25 @@
-# 🩸 Blood Donation System
+🩸 Blood Donation System
 
 A desktop application built with **JavaFX** that facilitates blood donation management for individual donors and registered blood banks. It includes features like appointment scheduling, viewing history/results, meal planning, inventory tracking, geotargeting, reminders, and more.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📌 Key Features
+📌 Key Features
 
-### 🧑‍💻 Donor Interface
+🧑‍💻 Donor Interface
 - Schedule donation appointments  
 - View donation history and blood test results  
 - Generate personalized optimal meal plans  
 
-### 🏥 Blood Bank Interface
+🏥 Blood Bank Interface
 - Manage inventory and donation records  
 - Send reminders and alerts via geotargeting  
 - Maintain transfusion reaction logs  
 - Perform cross-inventory product search  
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📁 Core Files
+📁 Core Files
 
 | File                                          | Description                                    |
 |-----------------------------------------------|------------------------------------------------|
@@ -37,16 +37,16 @@ A desktop application built with **JavaFX** that facilitates blood donation mana
 | `MaintaintransfusionreactoionInterface.java`  | Log transfusion reactions                      |
 | `ViewdonationrecordInterface.java`            | View specific donor’s donation records         |
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🛠 Requirements
+🛠 Requirements
 
 - Java Development Kit (JDK) 8 or higher  
 - JavaFX SDK 8 or higher  
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🚀 How to Run
+🚀 How to Run
 
 1. Clone or download the repository  
 2. Open in any Java IDE (e.g., IntelliJ, Eclipse)  
@@ -55,9 +55,9 @@ A desktop application built with **JavaFX** that facilitates blood donation mana
 5. Execute `Main.java`  
 6. Login and navigate through the system using the GUI
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ⚠️ Notes
+⚠️ Notes
 
 - This project is a simplified demo and may require enhancements for production use  
 - Ensure JavaFX libraries are configured correctly in your IDE for GUI rendering
