@@ -62,8 +62,8 @@ A desktop application built with **JavaFX** that facilitates blood donation mana
 - This project is a simplified demo and may require enhancements for production use  
 - Ensure JavaFX libraries are configured correctly in your IDE for GUI rendering
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📄 License
+📄 License
 
 Licensed under the [MIT License](LICENSE)
