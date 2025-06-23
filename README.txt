@@ -6,63 +6,61 @@ A desktop application built with **JavaFX** that facilitates blood donation mana
 
 ## 📌 Key Features
 
-### 🧑‍💻 Donor Interface:
+### 🧑‍💻 Donor Interface
+- Schedule donation appointments  
+- View donation history and blood test results  
+- Generate personalized optimal meal plans  
 
-* Schedule donation appointments
-* View donation history and blood test results
-* Generate personalized optimal meal plans
-
-### 🏥 Blood Bank Interface:
-
-* Manage inventory and donation records
-* Send reminders and alerts via geotargeting
-* Maintain transfusion reaction logs
-* Perform cross-inventory product search
+### 🏥 Blood Bank Interface
+- Manage inventory and donation records  
+- Send reminders and alerts via geotargeting  
+- Maintain transfusion reaction logs  
+- Perform cross-inventory product search  
 
 ---
 
 ## 📁 Core Files
 
-| File                                         | Description                            |
-| -------------------------------------------- | -------------------------------------- |
-| `Main.java`                                  | Application entry point                |
-| `LoginApp.java`                              | Handles login functionality            |
-| `CustomerInterface.java`                     | Donor dashboard UI                     |
-| `SetAppointmentInterface.java`               | Schedule donation appointments         |
-| `ViewHistoryInterface.java`                  | View past donations                    |
-| `ViewResultsInterface.java`                  | Display blood test results             |
-| `ViewOptimalMealInterface.java`              | Generate meal recommendations          |
-| `ViewInventoryInterface.java`                | View current blood inventory           |
-| `SendRemindersInterface.java`                | Send donor notifications               |
-| `EnableGeotargetingInterface.java`           | Location-based alert system            |
-| `EnablecrossInventoryInterface.java`         | Search inventory across banks          |
-| `MaintaintransfusionreactoionInterface.java` | Log transfusion reactions              |
-| `ViewdonationrecordInterface.java`           | View specific donor’s donation records |
+| File                                          | Description                                    |
+|-----------------------------------------------|------------------------------------------------|
+| `Main.java`                                   | Application entry point                        |
+| `LoginApp.java`                               | Handles login functionality                    |
+| `CustomerInterface.java`                      | Donor dashboard UI                             |
+| `SetAppointmentInterface.java`                | Schedule donation appointments                 |
+| `ViewHistoryInterface.java`                   | View past donations                            |
+| `ViewResultsInterface.java`                   | Display blood test results                     |
+| `ViewOptimalMealInterface.java`               | Generate meal recommendations                  |
+| `ViewInventoryInterface.java`                 | View current blood inventory                   |
+| `SendRemindersInterface.java`                 | Send donor notifications                       |
+| `EnableGeotargetingInterface.java`            | Location-based alert system                    |
+| `EnablecrossInventoryInterface.java`          | Search inventory across banks                  |
+| `MaintaintransfusionreactoionInterface.java`  | Log transfusion reactions                      |
+| `ViewdonationrecordInterface.java`            | View specific donor’s donation records         |
 
 ---
 
 ## 🛠 Requirements
 
-* Java Development Kit (JDK) 8 or higher
-* JavaFX SDK 8 or higher
+- Java Development Kit (JDK) 8 or higher  
+- JavaFX SDK 8 or higher  
 
 ---
 
 ## 🚀 How to Run
 
-1. Clone or download the repository
-2. Open in any Java IDE (e.g., IntelliJ, Eclipse)
-3. Ensure JavaFX is properly configured
-4. Compile the project
-5. Run `Main.java`
-6. Login and explore available features through the UI
+1. Clone or download the repository  
+2. Open in any Java IDE (e.g., IntelliJ, Eclipse)  
+3. Ensure JavaFX is properly configured  
+4. Build and run the project  
+5. Execute `Main.java`  
+6. Login and navigate through the system using the GUI
 
 ---
 
 ## ⚠️ Notes
 
-* This is a simplified version meant for educational/demo purposes
-* Proper validations, security, and production-level error handling should be added before real-world deployment
+- This project is a simplified demo and may require enhancements for production use  
+- Ensure JavaFX libraries are configured correctly in your IDE for GUI rendering
 
 ---
 
